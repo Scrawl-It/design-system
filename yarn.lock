@@ -6779,15 +6779,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"api@workspace:api":
-  version: 0.0.0-use.local
-  resolution: "api@workspace:api"
-  dependencies:
-    "@redwoodjs/api": "npm:7.4.2"
-    "@redwoodjs/graphql-server": "npm:7.4.2"
-  languageName: unknown
-  linkType: soft
-
 "aproba@npm:^1.1.1":
   version: 1.2.0
   resolution: "aproba@npm:1.2.0"
